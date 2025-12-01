@@ -65,6 +65,12 @@ tests/
 
 ## Cómo ejecutar el demo
 
+Instala las dependencias antes de correr los ejemplos:
+
+```bash
+pip install -r requirements.txt
+```
+
 ```bash
 python -m cases.structuring_pyod.demo
 python -m cases.fraud_graph.demo

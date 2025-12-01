@@ -1,0 +1,6 @@
+# Dependencias principales para reproducir los ejemplos AML
+numpy>=1.26
+pydantic>=1.10,<2
+pyod>=1.1
+networkx>=3.2
+scikit-learn>=1.3
